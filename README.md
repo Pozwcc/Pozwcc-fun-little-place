@@ -1,7 +1,7 @@
 # Pozwcc-fun-little-place
 Parody Adult site utilizing the power of Javascript (except not really)
 
-Just download all the source files and run the website on your web browser. It's a fun little stupid thing to say the least 😂
+Just download the latest release and you are good to go, and have some fun! 😂
 
 ## Disclaimer
 18+ content IS USED on the website. I do not hold any responsibility if you jerk it off! 🥵
